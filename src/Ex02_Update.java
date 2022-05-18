@@ -41,6 +41,7 @@ public class Ex02_Update {
 			if(row>0) {
 				System.out.println("데이터 update 성공!!!!");
 			}
+			//
 			else {
 				System.out.println("데이터 update 실패!!!!");
 			}			
